@@ -1,0 +1,13 @@
+# app
+shap
+# basic
+pandas
+numpy
+PyYAML
+matplotlib
+# workspace
+jupyterlab
+# formatter
+black
+# lint
+flake8

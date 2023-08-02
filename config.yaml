@@ -1,0 +1,114 @@
+label:
+  - TIPVG
+features:
+  category:
+    - MOTIVO_O
+    - MOTIVO_D
+    - tipo
+    - grupo
+    - SEXO
+  numeric:
+    - QT_AUTO
+    - QT_BICICLE
+    - RENDA_FA
+    - IDADE
+    - TOT_VIAG
+    # - ANDA_O
+    # - ANDA_D
+    - DURACAO
+    # - PE_BICI
+    - ap9ef07-17 / ap3em07-17
+    - di9ef07-17 / di3em07-17
+    - ataf07-17 / atem07-17
+    - esc_mean_1-inf-l
+    - esc_mean_2-inf-c1
+    - esc_mean_3-inf-c2
+    - esc_mean_4-inf-c3-1
+    - esc_mean_5-inf-c3-2
+    - esc_mean_6-inf-c4
+    - esc_mean_7-urb-u
+    - esc_mean_8-urb-d1
+    - esc_mean_9-urb-t1
+    - esc_mean_10-urb-t2
+    - esc_mean_11-urb-a
+    - esc_mean_12-urb-e
+    - esc_mean_13-urb-s
+    - esc_mean_14-urb-m
+    - esc_mean_15-urb-l
+    - esc_mean_16-urb-p
+    - esc_mean_17-ant-b4
+    - esc_mean_18-ant-c1
+    - esc_mean_19-ant-c2
+    - esc_mean_20-pol
+    - esc_mean_21-ilu
+    - esc_mean_22-arb
+    - esc_mean_23-decl
+    - dom_mean_1-inf-l
+    - dom_mean_2-inf-c1
+    - dom_mean_3-inf-c2
+    - dom_mean_4-inf-c3-1
+    - dom_mean_5-inf-c3-2
+    - dom_mean_6-inf-c4
+    - dom_mean_7-urb-u
+    - dom_mean_8-urb-d1
+    - dom_mean_9-urb-t1
+    - dom_mean_10-urb-t2
+    - dom_mean_11-urb-a
+    - dom_mean_12-urb-e
+    - dom_mean_13-urb-s
+    - dom_mean_14-urb-m
+    - dom_mean_15-urb-l
+    - dom_mean_16-urb-p
+    - dom_mean_17-ant-b4
+    - dom_mean_18-ant-c1
+    - dom_mean_19-ant-c2
+    - dom_mean_20-pol
+    - dom_mean_21-ilu
+    - dom_mean_22-arb
+    - dom_mean_23-decl
+    - o_mean_1-inf-l
+    - o_mean_2-inf-c1
+    - o_mean_3-inf-c2
+    - o_mean_4-inf-c3-1
+    - o_mean_5-inf-c3-2
+    - o_mean_6-inf-c4
+    - o_mean_7-urb-u
+    - o_mean_8-urb-d1
+    - o_mean_9-urb-t1
+    - o_mean_10-urb-t2
+    - o_mean_11-urb-a
+    - o_mean_12-urb-e
+    - o_mean_13-urb-s
+    - o_mean_14-urb-m
+    - o_mean_15-urb-l
+    - o_mean_16-urb-p
+    - o_mean_17-ant-b4
+    - o_mean_18-ant-c1
+    - o_mean_19-ant-c2
+    - o_mean_20-pol
+    - o_mean_21-ilu
+    - o_mean_22-arb
+    - o_mean_23-decl
+    - d_mean_1-inf-l
+    - d_mean_2-inf-c1
+    - d_mean_3-inf-c2
+    - d_mean_4-inf-c3-1
+    - d_mean_5-inf-c3-2
+    - d_mean_6-inf-c4
+    - d_mean_7-urb-u
+    - d_mean_8-urb-d1
+    - d_mean_9-urb-t1
+    - d_mean_10-urb-t2
+    - d_mean_11-urb-a
+    - d_mean_12-urb-e
+    - d_mean_13-urb-s
+    - d_mean_14-urb-m
+    - d_mean_15-urb-l
+    - d_mean_16-urb-p
+    - d_mean_17-ant-b4
+    - d_mean_18-ant-c1
+    - d_mean_19-ant-c2
+    - d_mean_20-pol
+    - d_mean_21-ilu
+    - d_mean_22-arb
+    - d_mean_23-decl
