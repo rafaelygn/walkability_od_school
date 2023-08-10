@@ -1,6 +1,20 @@
 label:
   - TIPVG
 features:
+  priority:
+    - QT_AUTO
+    - RENDA_FA
+    - SEXO_2
+    # - MOTIVO_D
+    - DURACAO
+    - esc_mean_1-inf-l
+    - dom_mean_1-inf-l
+    - o_mean_1-inf-l
+    - d_mean_1-inf-l
+    - esc_mean_7-urb-u
+    - dom_mean_7-urb-u
+    - o_mean_7-urb-u
+    - d_mean_7-urb-u
   category:
     - MOTIVO_O
     - MOTIVO_D
